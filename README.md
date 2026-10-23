@@ -1,9 +1,22 @@
-# Hi, 我是苦瓜大王 Φёдор 👋
-很高兴认识你！
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a1a&height=180&section=header&text=苦瓜大王%20Φёдор&fontSize=32&fontColor=39C5BB&animation=fadeIn" />
+</p>
 
-🎯 爱好：摄影 / 游戏 / 制作美食
+<div align="center">
 
-### 🔗 我的链接
-- 📺 B站：https://space.bilibili.com/3546725587
-- 🎮 Steam：https://steamcommunity.com/profiles/76561199752755139/
-- 💬 Telegram：https://t.me/Kugua1258
+![Visitor Count](https://komarev.com/ghpvc/?username=KuguaKing1258&color=39C5BB)
+
+---
+
+### 🖥️ 关于我
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=39C5BB&background=00000000&center=true&vCenter=true&width=720&lines=CYBER_PROFILE_ONLINE;WELCOME_TO_THE_DARK_SYSTEM" />
+</p>
+
+```text
+▸ Identity     : KuguaKing1258
+▸ Nickname     : 苦瓜大王
+▸ Status       : Online
+▸ Playstyle    : Casual / Open World
+▸ Interest     : Photography, Gaming, Cooking
